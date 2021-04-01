@@ -1,4 +1,4 @@
 # JavaScript_Roshambo
-## Roshambo written in javascript
+> Roshambo written in javascript
 
-## 자바스크립트를 활용한 가위바위보 게임 입니다.
+>> 자바스크립트를 활용한 가위바위보 게임 입니다.
